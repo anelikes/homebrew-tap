@@ -1,6 +1,6 @@
 cask "peesuto" do
-  version "0.2.0"
-  sha256 "c55d92a3a879f6987e0439d50c6f1c8fb041789b498895feac3b2d5f8d7ee71b"
+  version "0.2.1"
+  sha256 "0a96a901618f7c07fe0d3e125d2b722c4969ef0247e6e64b8e5ceefe97a2ebf8"
 
   url "https://github.com/anelikes/peesuto/releases/download/v#{version}/Peesuto-#{version}-arm64.dmg"
   name "Peesuto"
